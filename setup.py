@@ -53,7 +53,7 @@ later (LGPLv2+)",
         'urllib3 >= 1.22',
         'xmlsec >= 1.3.3',  # apt update;apt install libxmlsec1-dev pkg-config -y
         'Jinja2 >= 2.8',
-        'pyOpenSSL == 22.1.0',
+        'pyOpenSSL==22.1.0',
         'signxml >= 2.4.0',
         'lxml >= 3.5.0, < 5',
         'suds-jurko >= 0.6',
