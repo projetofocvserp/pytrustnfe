@@ -10,9 +10,9 @@ eight >= 0.3.0, < 1
 cryptography
 pyOpenSSL == 22.1.0
 certifi >= 2015.11.20.1
-xmlsec >= 1.3.3
+xmlsec
 reportlab
-pytest>=4.1.1
-pytest-cov
+# pytest>=4.1.1
+# pytest-cov
 pytz
 zeep
